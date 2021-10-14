@@ -1,0 +1,26 @@
+---
+title: "Grassroot Economics"
+description: Africa's most reliable off-ramps APIs kjsfd kjsf ksfhfds kuiysarb iysa iusdf hfd
+tags: ["team"]
+categories: "team"
+type: "Blockchain"
+weight: 40
+country: "USA"
+dpg: "Nominated"
+status: "active"
+github: "https://github.com/"
+linkedin: "https://github.com/"
+twitter: "https://github.com/"
+website: "https://github.com/"
+logo: "https://gitlab.com/uploads/-/system/group/avatar/7914527/gef.pure-logo.COLOR-trans2_sm.png"
+PR: 20
+sdgs:
+    - Clean water and sanitation
+    - No poverty
+
+---
+
+This is your at a glance version of the document.
+Details and resources are below.
+ 
+ 

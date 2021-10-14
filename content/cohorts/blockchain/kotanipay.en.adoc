@@ -1,0 +1,25 @@
+---
+title: "Kotani Pay"
+description: Africa's most reliable off-ramps APIs
+tags: ["team"]
+categories: "team"
+type: "Blockchain"
+weight: 40
+country: "Kenya"
+dpg: "Nominated"
+status: "active"
+github: "https://github.com/"
+linkedin: "https://github.com/"
+twitter: "https://github.com/"
+website: "https://github.com/"
+logo: "https://images.app.goo.gl/mkcDdJJcgW7rzC8z8"
+PR: 20
+sdgs:
+    - Zero Hunger
+
+---
+
+This is your at a glance version of the document.
+Details and resources are below.
+ 
+ 

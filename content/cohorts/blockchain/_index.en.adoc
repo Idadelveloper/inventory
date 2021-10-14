@@ -1,0 +1,10 @@
+---
+title: "Blockchain"
+icon: "ti-eye"
+description: "Develop a more ethical, transparent, and safe AI system with these resources."
+
+cascade:
+- type: "foo"
+  _target:
+    path: "/cohorts/*/**"
+---
